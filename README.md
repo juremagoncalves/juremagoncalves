@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juremagoncalves
+- 👀 I’m interested in Angular, TS and Java
+- 🌱 I’m currently learning Angular, TS and JS
+- 💞️ I’m looking to collaborate on Open Source Project 
